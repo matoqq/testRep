@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="l46viSAHJcH3Lr966uwj">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jj3HIhXL-EVYgNKJzeW3-2" target="Jj3HIhXL-EVYgNKJzeW3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-2" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;vek = 18&lt;/div&gt;&lt;div&gt;zem = &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;CZ&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jj3HIhXL-EVYgNKJzeW3-6" target="Jj3HIhXL-EVYgNKJzeW3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jj3HIhXL-EVYgNKJzeW3-6" target="Jj3HIhXL-EVYgNKJzeW3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jj3HIhXL-EVYgNKJzeW3-6" target="Jj3HIhXL-EVYgNKJzeW3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;if vek &amp;gt;= &lt;span style=&quot;color: #098658;&quot;&gt;18&lt;/span&gt;:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Jsi plnoletý!&quot;&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #0000ff;&quot;&gt;if&lt;/span&gt; zem == &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;CZ&quot;&lt;/span&gt;:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; print(&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Vítej zákazníku!&quot;&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #0000ff;&quot;&gt;else&lt;/span&gt;:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; print(&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Mimo ČR nedoručujeme!&quot;&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;else&lt;/span&gt;:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; print(&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Jsi nezletilý!&quot;&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;print(&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Na shledanou!&quot;&lt;/span&gt;)&lt;/div&gt;&lt;/div&gt;" style="align=left;imageAspect=0;resizeWidth=1;resizeHeight=1;autosize=0;html=1;recursiveResize=0;expand=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jj3HIhXL-EVYgNKJzeW3-8" target="Jj3HIhXL-EVYgNKJzeW3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-8" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;vek = 9&lt;/div&gt;&lt;div&gt;zem = &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;CZ&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jj3HIhXL-EVYgNKJzeW3-10" target="Jj3HIhXL-EVYgNKJzeW3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;vek = 18&lt;/div&gt;&lt;div&gt;zem = &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;SK&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="fontColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="165" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-11" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); line-height: 19px; font-size: 14px; font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;Jsi plnoletý!&lt;br&gt;&lt;span style=&quot;&quot;&gt;Vítej zákazníku!&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;Na shledanou!&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=default;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); line-height: 19px; font-size: 14px; font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;Jsi plnoletý!&lt;br&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;Mimo ČR nedoručujeme!&lt;/div&gt;&lt;span style=&quot;&quot;&gt;Na shledanou!&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=default;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="155" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj3HIhXL-EVYgNKJzeW3-13" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); line-height: 19px; font-size: 14px; font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;Jsi nezletilý!&lt;/div&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;Na shledanou!&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=default;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
